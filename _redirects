@@ -1,2 +1,8 @@
 /index.php / 301
-/hungary-hu/* /nv-casino-hu/:splat 301
+/nv-casino-velemenyek-hu/* /nv-casino-review-hu/:splat 301
+/nv-casino-hivatalos-oldala-hu/* /nv-casino-review-hu/:splat 301
+/nv-casino-hu-hu/* /nv-casino-review-hu/:splat 301
+/nv-casino-magyar-hu/* /nv-casino-review-hu/:splat 301
+/nvcasino-hu/* /nv-casino-review-hu/:splat 301
+/nv-casino-hu/* /nv-casino-review-hu/:splat 301
+/hungary-hu/* /nv-casino-review-hu/:splat 301
